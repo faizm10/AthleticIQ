@@ -10,6 +10,12 @@
 - Spring Boot Actuator
 - GraphQL (read-only use)
 
+# how to run
+
+```
+mvn spring-boot:run
+```
+
 ## Notes
 This project is intentionally kept small and focused.  
 The emphasis is on **backend quality and maintainability**, not feature breadth.
