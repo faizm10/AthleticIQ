@@ -29,4 +29,9 @@ public class LoanApplication {
         this.createdAt = Instant.now();
         //this.updatedAt = Instant.now(); // set updatedAt to the same value as createdAt
     }
+
+    // getter methods
+    public UUID getId() {
+        return id;
+    }
 }
